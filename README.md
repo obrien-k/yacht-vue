@@ -74,3 +74,5 @@ https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/yacht/Templ
 
 ## License
 [MIT License](LICENSE.md)
+
+[Mautic](https://github.com/QuentinJaillet/MauticApiClient.Net/tree/master/src/MauticApiClient.Net)
